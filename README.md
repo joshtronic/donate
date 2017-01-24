@@ -49,22 +49,29 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 ## Components
 
 * [PulseAudio](https://www.patreon.com/tanuk)
+* [OpenSSL](https://www.openssl.org/support/donations.html)
 * [X.org](https://www.x.org/wiki/SponsorshipPage/)
 
 ## Software
 
 * [Audacity](http://www.audacityteam.org/donate/)
 * [Blender](https://www.blender.org/foundation/donation-payment/)
+* [Calibre](https://calibre-ebook.com/donate)
 * [f.lux](https://justgetflux.com/promo/paypal.html)
 * [FreeCAD](https://www.patreon.com/yorikvanhavre)
 * [GNU Privacy Guard](https://gpgtools.org/donate.html)
+* [GnuCash](https://www.gnucash.org/donate.phtml)
 * [GIMP](https://www.gimp.org/donating/#donate-to-the-project)
 * [Karabiner](https://pqrs.org/osx/karabiner/pricing.html.en)
+* [Kodi](https://kodi.tv/contribute/donate/)
 * [Inkscape](https://inkscape.org/en/support-us/donate/)
 * [LibreOffice](https://www.libreoffice.org/donate/)
 * [OpenShot](https://www.patreon.com/openshot)
+* [Roundcube](https://roundcube.net/contribute/)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
 * [SquirrelMail](https://squirrelmail.org/donations.php)
+* [VLC](https://www.videolan.org/contribute.html#money)
+* [Wine](https://www.winehq.org/donate)
 * [WinSCP](https://winscp.net/eng/donate.php)
 
 ## Editors
@@ -77,6 +84,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Girl Develop It](https://www.girldevelopit.com/donate)
 * [Haskell.org](https://wiki.haskell.org/Donate_to_Haskell.org)
 * [Python Software Foundation](https://www.python.org/psf/donations/)
+* [The R Project](https://www.r-project.org/foundation/donations.html)
 
 ## Databases
 
@@ -93,6 +101,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [cdnjs](https://www.bountysource.com/teams/cdnjs)
 * [Let's Encrypt](https://letsencrypt.org/donate/)
 * [riseup.net](https://riseup.net/en/donate)
+* [Tor Project](https://donate.torproject.org/)
 
 ## Organizations
 
@@ -102,6 +111,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Open Source Initiative](https://opensource.org/civicrm/contribute/transact?reset=1&id=2)
 * [Software Freedom Conservancy](https://sfconservancy.org/supporter/)
 * [Software in the Public Interest](http://spi-inc.org/donations/)
+* [The Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
 * [The Linux Foundation](https://www.linuxfoundation.org/about/linux-donate)
 * [Wikimedia Foundation](https://donate.wikimedia.org/)
 
