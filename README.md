@@ -89,6 +89,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 * [Electronic Frontier Foundation](https://supporters.eff.org/donate/button)
 * [Free Software Foundation](https://www.fsf.org/associate/)
+* [Mozilla](https://donate.mozilla.org/en-US/)
 * [Open Source Initiative](https://opensource.org/civicrm/contribute/transact?reset=1&id=2)
 * [Software Freedom Conservancy](https://sfconservancy.org/supporter/)
 * [Software in the Public Interest](http://spi-inc.org/donations/)
