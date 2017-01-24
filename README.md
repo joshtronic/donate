@@ -62,6 +62,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Editors
 
+* [Neovim](https://salt.bountysource.com/teams/neovim)
 * [Vim](http://www.vim.org/sponsor/)
 
 ## Development
@@ -80,6 +81,8 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Services
 
+* [Bountysource](https://salt.bountysource.com/teams/bountysource)
+* [cdnjs](https://www.bountysource.com/teams/cdnjs)
 * [Let's Encrypt](https://letsencrypt.org/donate/)
 
 ## Organizations
