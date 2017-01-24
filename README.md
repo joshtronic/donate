@@ -31,6 +31,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
     * [Ubuntu Budgie](https://budgie-remix.org/support-us/)
     * [Ubuntu MATE](https://ubuntu-mate.org/donate/)
     * [Xubuntu](https://xubuntu.org/donations/)
+* [Gentoo](https://www.gentoo.org/donate/)
 * [OpenMandriva](https://www.openmandriva.org/donate)
 * [PCLinuxOS](http://www.pclinuxos.com/donations/)
 * [ReactOS](https://www.reactos.org/donating)
@@ -40,6 +41,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 ## Desktop Environments
 
 * [Budgie](https://solus-project.com/support/)
+* [Enlightenment](https://www.enlightenment.org/contribute)
 * [GNOME](https://www.gnome.org/friends/)
 * [KDE](https://www.kde.org/community/donations/index.php#money)
 * [XFCE](https://www.bountysource.com/teams/xfce)
@@ -51,14 +53,19 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Software
 
+* [Audacity](http://www.audacityteam.org/donate/)
 * [Blender](https://www.blender.org/foundation/donation-payment/)
+* [f.lux](https://justgetflux.com/promo/paypal.html)
 * [FreeCAD](https://www.patreon.com/yorikvanhavre)
+* [GNU Privacy Guard](https://gpgtools.org/donate.html)
 * [GIMP](https://www.gimp.org/donating/#donate-to-the-project)
 * [Karabiner](https://pqrs.org/osx/karabiner/pricing.html.en)
 * [Inkscape](https://inkscape.org/en/support-us/donate/)
 * [LibreOffice](https://www.libreoffice.org/donate/)
 * [OpenShot](https://www.patreon.com/openshot)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
+* [SquirrelMail](https://squirrelmail.org/donations.php)
+* [WinSCP](https://winscp.net/eng/donate.php)
 
 ## Editors
 
@@ -67,6 +74,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Development
 
+* [Girl Develop It](https://www.girldevelopit.com/donate)
 * [Haskell.org](https://wiki.haskell.org/Donate_to_Haskell.org)
 * [Python Software Foundation](https://www.python.org/psf/donations/)
 
@@ -84,18 +92,16 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Bountysource](https://salt.bountysource.com/teams/bountysource)
 * [cdnjs](https://www.bountysource.com/teams/cdnjs)
 * [Let's Encrypt](https://letsencrypt.org/donate/)
+* [riseup.net](https://riseup.net/en/donate)
 
 ## Organizations
 
 * [Electronic Frontier Foundation](https://supporters.eff.org/donate/button)
 * [Free Software Foundation](https://www.fsf.org/associate/)
-* [Mozilla](https://donate.mozilla.org/en-US/)
+* [Mozilla Foundation](https://donate.mozilla.org/en-US/)
 * [Open Source Initiative](https://opensource.org/civicrm/contribute/transact?reset=1&id=2)
 * [Software Freedom Conservancy](https://sfconservancy.org/supporter/)
 * [Software in the Public Interest](http://spi-inc.org/donations/)
 * [The Linux Foundation](https://www.linuxfoundation.org/about/linux-donate)
-
-## Resources
-
-* [Wikipedia](https://donate.wikimedia.org/)
+* [Wikimedia Foundation](https://donate.wikimedia.org/)
 
