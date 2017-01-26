@@ -115,3 +115,9 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [The Linux Foundation](https://www.linuxfoundation.org/about/linux-donate)
 * [Wikimedia Foundation](https://donate.wikimedia.org/)
 
+## Content Creators
+
+* [Bryan Lunduke](https://www.patreon.com/bryanlunduke)
+* [LinuxGameCast](https://www.patreon.com/linuxgamecast)
+* [Open Source Media](https://www.patreon.com/radioopensource)
+
