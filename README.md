@@ -38,6 +38,10 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Slackware](https://store.slackware.com/cgi-bin/store/slackdonation)
 * [Solus](https://solus-project.com/support/)
 
+## Android
+
+* [CopperheadOS](https://copperhead.co/android/donate)
+
 ## Desktop Environments
 
 * [Budgie](https://solus-project.com/support/)
@@ -66,7 +70,9 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Kodi](https://kodi.tv/contribute/donate/)
 * [Inkscape](https://inkscape.org/en/support-us/donate/)
 * [LibreOffice](https://www.libreoffice.org/donate/)
+* [LiVES Video Editing System](http://lives-video.com/index.php?do=donate)
 * [OpenShot](https://www.patreon.com/openshot)
+* [Pi-hole](https://pi-hole.net/donate/?v=7516fd43adaa)
 * [Roundcube](https://roundcube.net/contribute/)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
 * [SquirrelMail](https://squirrelmail.org/donations.php)
@@ -103,16 +109,26 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [riseup.net](https://riseup.net/en/donate)
 * [Tor Project](https://donate.torproject.org/)
 
+## Privacy
+
+* [The Calyx Institute](https://www.calyxinstitute.org/civicrm/contribute/transact?reset=1&id=19)
+* [Patient Privacy Rights](https://patientprivacyrights.org/?page_id=8067)
+* [Privacy Rights Clearinghouse](https://privacyrights.networkforgood.com/)
+* [Restore the Fourth](https://restorethe4th.com/donate-now/)
+* [World Privacy Forum](https://www.worldprivacyforum.org/donate/)
+
 ## Organizations
 
+* [The Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
 * [Electronic Frontier Foundation](https://supporters.eff.org/donate/button)
 * [Free Software Foundation](https://www.fsf.org/associate/)
+* [Freedom of the Press Foundation](https://freedom.press/)
+* [The Linux Foundation](https://www.linuxfoundation.org/about/linux-donate)
+* [Linux Fund](http://www.linuxfund.org/donate/)
 * [Mozilla Foundation](https://donate.mozilla.org/en-US/)
 * [Open Source Initiative](https://opensource.org/civicrm/contribute/transact?reset=1&id=2)
 * [Software Freedom Conservancy](https://sfconservancy.org/supporter/)
 * [Software in the Public Interest](http://spi-inc.org/donations/)
-* [The Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
-* [The Linux Foundation](https://www.linuxfoundation.org/about/linux-donate)
 * [Wikimedia Foundation](https://donate.wikimedia.org/)
 
 ## Content Creators
