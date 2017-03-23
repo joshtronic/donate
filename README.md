@@ -80,6 +80,12 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Wine](https://www.winehq.org/donate)
 * [WinSCP](https://winscp.net/eng/donate.php)
 
+## Software Repositories
+
+* [DEB.SURY.ORG](https://www.patreon.com/oerdnj)
+* [Dotdeb](https://www.dotdeb.org/donate/)
+
+
 ## Editors
 
 * [Neovim](https://salt.bountysource.com/teams/neovim)
