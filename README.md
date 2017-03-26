@@ -82,7 +82,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Software Repositories
 
-* [DEB.SURY.ORG](https://www.patreon.com/oerdnj)
+* [DEB.SURY.ORG](https://deb.sury.org/#donate)
 * [Dotdeb](https://www.dotdeb.org/donate/)
 
 
