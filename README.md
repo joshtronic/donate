@@ -112,6 +112,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Bountysource](https://salt.bountysource.com/teams/bountysource)
 * [cdnjs](https://www.bountysource.com/teams/cdnjs)
 * [Let's Encrypt](https://letsencrypt.org/donate/)
+* [ProtonMail](https://protonmail.com/donate)
 * [riseup.net](https://riseup.net/en/donate)
 * [Tor Project](https://donate.torproject.org/)
 
