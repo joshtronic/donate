@@ -74,6 +74,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [LiVES Video Editing System](http://lives-video.com/index.php?do=donate)
 * [OpenShot](https://www.patreon.com/openshot)
 * [Pi-hole](https://pi-hole.net/donate/?v=7516fd43adaa)
+* [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/todo.html)
 * [Roundcube](https://roundcube.net/contribute/)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
 * [SquirrelMail](https://squirrelmail.org/donations.php)
