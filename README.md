@@ -65,6 +65,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [FreeCAD](https://www.patreon.com/yorikvanhavre)
 * [GNU Privacy Guard](https://gpgtools.org/donate.html)
 * [GnuCash](https://www.gnucash.org/donate.phtml)
+* [GnuPG](https://gnupg.org/donate/index.html)
 * [GIMP](https://www.gimp.org/donating/#donate-to-the-project)
 * [Karabiner](https://pqrs.org/osx/karabiner/pricing.html.en)
 * [Kodi](https://kodi.tv/contribute/donate/)
@@ -111,6 +112,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 * [Bountysource](https://salt.bountysource.com/teams/bountysource)
 * [cdnjs](https://www.bountysource.com/teams/cdnjs)
+* [Internet Archive](https://archive.org/donate/)
 * [Let's Encrypt](https://letsencrypt.org/donate/)
 * [ProtonMail](https://protonmail.com/donate)
 * [riseup.net](https://riseup.net/en/donate)
