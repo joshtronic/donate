@@ -72,6 +72,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Inkscape](https://inkscape.org/en/support-us/donate/)
 * [LibreOffice](https://www.libreoffice.org/donate/)
 * [LiVES Video Editing System](http://lives-video.com/index.php?do=donate)
+* [NumPy](https://www.flipcause.com/secure/cause_pdetails/MzUwMQ==)
 * [OpenShot](https://www.patreon.com/openshot)
 * [Pi-hole](https://pi-hole.net/donate/?v=7516fd43adaa)
 * [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/todo.html)
