@@ -80,7 +80,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 * [Audacity](http://www.audacityteam.org/donate/)
 
-## Browser Extensions
+### Browser Extensions
 
 * [Adblock Plus](https://adblockplus.org/en/contribute#donate)
 
