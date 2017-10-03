@@ -58,42 +58,61 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Software
 
-* [Audacity](http://www.audacityteam.org/donate/)
-* [Blender](https://www.blender.org/foundation/donation-payment/)
 * [Calibre](https://calibre-ebook.com/donate)
 * [f.lux](https://justgetflux.com/promo/paypal.html)
 * [FreeCAD](https://www.patreon.com/yorikvanhavre)
 * [GNU Privacy Guard](https://gpgtools.org/donate.html)
 * [GnuCash](https://www.gnucash.org/donate.phtml)
 * [GnuPG](https://gnupg.org/donate/index.html)
-* [GIMP](https://www.gimp.org/donating/#donate-to-the-project)
 * [Karabiner](https://pqrs.org/osx/karabiner/pricing.html.en)
-* [Kodi](https://kodi.tv/contribute/donate/)
-* [Inkscape](https://inkscape.org/en/support-us/donate/)
 * [LibreOffice](https://www.libreoffice.org/donate/)
-* [LiVES Video Editing System](http://lives-video.com/index.php?do=donate)
 * [MochaJS](https://opencollective.com/mochajs#support)
 * [NumPy](https://www.flipcause.com/secure/cause_pdetails/MzUwMQ==)
-* [OpenShot](https://www.patreon.com/openshot)
 * [Pi-hole](https://pi-hole.net/donate/?v=7516fd43adaa)
 * [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/todo.html)
 * [Roundcube](https://roundcube.net/contribute/)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
 * [SquirrelMail](https://squirrelmail.org/donations.php)
-* [VLC](https://www.videolan.org/contribute.html#money)
 * [Wine](https://www.winehq.org/donate)
 * [WinSCP](https://winscp.net/eng/donate.php)
+
+### Audio
+
+* [Audacity](http://www.audacityteam.org/donate/)
+
+## Browser Extensions
+
+* [Adblock Plus](https://adblockplus.org/en/contribute#donate)
+
+### Databases
+
+* [MariaDB](https://mariadb.org/donate/)
+* [PostgreSQL](https://www.postgresql.org/about/donate_pg_org/)
+
+### Editors
+
+* [Neovim](https://salt.bountysource.com/teams/neovim)
+* [Vim](http://www.vim.org/sponsor/)
+
+### Graphics
+
+* [Blender](https://www.blender.org/foundation/donation-payment/)
+* [GIMP](https://www.gimp.org/donating/#donate-to-the-project)
+* [Inkscape](https://inkscape.org/en/support-us/donate/)
+* [ImageOptim](https://imageoptim.com/donate.html)
+* [Trimage](https://pledgie.com/campaigns/9607/pledge/confirm)
+
+### Video
+
+* [Kodi](https://kodi.tv/contribute/donate/)
+* [LiVES Video Editing System](http://lives-video.com/index.php?do=donate)
+* [OpenShot](https://www.patreon.com/openshot)
+* [VLC](https://www.videolan.org/contribute.html#money)
 
 ## Software Repositories
 
 * [DEB.SURY.ORG](https://deb.sury.org/#donate)
 * [Dotdeb](https://www.dotdeb.org/donate/)
-
-
-## Editors
-
-* [Neovim](https://salt.bountysource.com/teams/neovim)
-* [Vim](http://www.vim.org/sponsor/)
 
 ## Development
 
@@ -101,15 +120,6 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Haskell.org](https://wiki.haskell.org/Donate_to_Haskell.org)
 * [Python Software Foundation](https://www.python.org/psf/donations/)
 * [The R Project](https://www.r-project.org/foundation/donations.html)
-
-## Databases
-
-* [MariaDB](https://mariadb.org/donate/)
-* [PostgreSQL](https://www.postgresql.org/about/donate_pg_org/)
-
-## Browser Plugins
-
-* [Adblock Plus](https://adblockplus.org/en/contribute#donate)
 
 ## Services
 
@@ -149,4 +159,3 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Bryan Lunduke](https://www.patreon.com/bryanlunduke)
 * [LinuxGameCast](https://www.patreon.com/linuxgamecast)
 * [Open Source Media](https://www.patreon.com/radioopensource)
-
