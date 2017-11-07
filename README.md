@@ -20,9 +20,12 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
   * [Manjaro](https://manjaro.github.io/donate/)
 * Berkeley Software Distribution
   * [FreeBSD](https://www.freebsdfoundation.org/donate/)
+    * [TrueOS](https://www.trueos.org/sponsor/)
   * [NetBSD](https://www.netbsd.org/donations/#how-to-donate)
   * [OpenBSD](https://www.openbsd.org/donations.html)
 * [Debian](https://www.debian.org/donations)
+  * [antiX](https://mxlinux.org/donate#Funds)
+  * [Linux Lite](https://www.linuxliteos.com/donate.html)
   * [Ubuntu](https://www.ubuntu.com/download/desktop/contribute)
     * [elementary OS](https://elementary.io/get-involved)
     * [Kubuntu](https://www.kubuntu.org/contribute-to-kubuntu/)
@@ -31,8 +34,11 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
     * [Ubuntu Budgie](https://budgie-remix.org/support-us/)
     * [Ubuntu MATE](https://ubuntu-mate.org/donate/)
     * [Xubuntu](https://xubuntu.org/donations/)
+    * [Zorin OS](https://zorinos.com/about/) - Link under the "Funding" section
 * [Gentoo](https://www.gentoo.org/donate/)
-* [OpenMandriva](https://www.openmandriva.org/donate)
+* Mandriva
+  * [Mageia](http://www.mageia.org/en/donate/)
+  * [OpenMandriva](https://www.openmandriva.org/donate)
 * [PCLinuxOS](http://www.pclinuxos.com/donations/)
 * [ReactOS](https://www.reactos.org/donating)
 * [Slackware](https://store.slackware.com/cgi-bin/store/slackdonation)
@@ -48,6 +54,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Enlightenment](https://www.enlightenment.org/contribute)
 * [GNOME](https://www.gnome.org/friends/)
 * [KDE](https://www.kde.org/community/donations/index.php#money)
+* [MATE](https://mate-desktop.org/donate/)
 * [XFCE](https://www.bountysource.com/teams/xfce)
 
 ## Components
@@ -61,6 +68,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Calibre](https://calibre-ebook.com/donate)
 * [f.lux](https://justgetflux.com/promo/paypal.html)
 * [FreeCAD](https://www.patreon.com/yorikvanhavre)
+* [fzf](https://github.com/junegunn/fzf) - Donate link in README.md
 * [GNU Privacy Guard](https://gpgtools.org/donate.html)
 * [GnuCash](https://www.gnucash.org/donate.phtml)
 * [GnuPG](https://gnupg.org/donate/index.html)
@@ -106,6 +114,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 * [Kodi](https://kodi.tv/contribute/donate/)
 * [LiVES Video Editing System](http://lives-video.com/index.php?do=donate)
+* [OBS Studio](https://obsproject.com/donate)
 * [OpenShot](https://www.patreon.com/openshot)
 * [VLC](https://www.videolan.org/contribute.html#money)
 
