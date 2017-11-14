@@ -125,6 +125,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Development
 
+* [Cheerio](https://opencollective.com/cheerio)
 * [Girl Develop It](https://www.girldevelopit.com/donate)
 * [Haskell.org](https://wiki.haskell.org/Donate_to_Haskell.org)
 * [Python Software Foundation](https://www.python.org/psf/donations/)
