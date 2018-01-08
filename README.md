@@ -81,6 +81,8 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Roundcube](https://roundcube.net/contribute/)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
 * [SquirrelMail](https://squirrelmail.org/donations.php)
+* [Transmission](https://transmissionbt.com/donate/)
+* [Tunnelblick](https://www.tunnelblick.net/donate.html)
 * [Wine](https://www.winehq.org/donate)
 * [WinSCP](https://winscp.net/eng/donate.php)
 
