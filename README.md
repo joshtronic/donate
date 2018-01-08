@@ -130,6 +130,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Cheerio](https://opencollective.com/cheerio)
 * [Girl Develop It](https://www.girldevelopit.com/donate)
 * [Haskell.org](https://wiki.haskell.org/Donate_to_Haskell.org)
+* [PHPUnit](https://phpunit.de/donate.html)
 * [Python Software Foundation](https://www.python.org/psf/donations/)
 * [The R Project](https://www.r-project.org/foundation/donations.html)
 
