@@ -72,10 +72,12 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [GNU Privacy Guard](https://gpgtools.org/donate.html)
 * [GnuCash](https://www.gnucash.org/donate.phtml)
 * [GnuPG](https://gnupg.org/donate/index.html)
+* [iTerm2](https://iterm2.com/donate.html)
 * [Karabiner](https://pqrs.org/osx/karabiner/pricing.html.en)
 * [LibreOffice](https://www.libreoffice.org/donate/)
 * [MochaJS](https://opencollective.com/mochajs#support)
 * [NumPy](https://www.flipcause.com/secure/cause_pdetails/MzUwMQ==)
+* [OpenEmu](http://openemu.org/donate/)
 * [Pi-hole](https://pi-hole.net/donate/?v=7516fd43adaa)
 * [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/todo.html)
 * [Roundcube](https://roundcube.net/contribute/)
@@ -133,6 +135,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [PHPUnit](https://phpunit.de/donate.html)
 * [Python Software Foundation](https://www.python.org/psf/donations/)
 * [The R Project](https://www.r-project.org/foundation/donations.html)
+* [react-dropzone](https://opencollective.com/react-dropzone#support)
 
 ## Services
 
