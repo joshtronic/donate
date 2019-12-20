@@ -67,7 +67,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 * [Calibre](https://calibre-ebook.com/donate)
 * [f.lux](https://justgetflux.com/promo/paypal.html)
-* [FreeCAD](https://www.patreon.com/yorikvanhavre)
+* [FreeCAD](https://freecadweb.org/wiki/Donate)
 * [fzf](https://github.com/junegunn/fzf) - Donate link in README.md
 * [GNU Privacy Guard](https://gpgtools.org/donate.html)
 * [GnuCash](https://www.gnucash.org/donate.phtml)
