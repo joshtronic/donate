@@ -40,9 +40,13 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
   * [Mageia](http://www.mageia.org/en/donate/)
   * [OpenMandriva](https://www.openmandriva.org/donate)
 * [PCLinuxOS](http://www.pclinuxos.com/donations/)
-* [ReactOS](https://www.reactos.org/donating)
 * [Slackware](https://store.slackware.com/cgi-bin/store/slackdonation)
 * [Solus](https://solus-project.com/support/)
+
+## Other Desktop OS
+
+* [Haiku](https://www.haiku-inc.org/donate/)
+* [ReactOS](https://www.reactos.org/donating)
 
 ## Android
 
