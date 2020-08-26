@@ -18,11 +18,6 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
   * [Apricity OS](https://apricityos.com/) - Donate button is in the upper right
   * [Chakra](https://chakralinux.org/?donate)
   * [Manjaro](https://manjaro.github.io/donate/)
-* Berkeley Software Distribution
-  * [FreeBSD](https://www.freebsdfoundation.org/donate/)
-    * [TrueOS](https://www.trueos.org/sponsor/)
-  * [NetBSD](https://www.netbsd.org/donations/#how-to-donate)
-  * [OpenBSD](https://www.openbsd.org/donations.html)
 * [Debian](https://www.debian.org/donations)
   * [antiX](https://mxlinux.org/donate#Funds)
   * [Linux Lite](https://www.linuxliteos.com/donate.html)
@@ -45,6 +40,11 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 ## Other Desktop OS
 
+* Berkeley Software Distribution
+  * [FreeBSD](https://www.freebsdfoundation.org/donate/)
+    * [TrueOS](https://www.trueos.org/sponsor/)
+  * [NetBSD](https://www.netbsd.org/donations/#how-to-donate)
+  * [OpenBSD](https://www.openbsd.org/donations.html)
 * [Haiku](https://www.haiku-inc.org/donate/)
 * [ReactOS](https://www.reactos.org/donating)
 
