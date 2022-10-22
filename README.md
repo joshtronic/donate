@@ -59,7 +59,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [GNOME](https://www.gnome.org/friends/)
 * [KDE](https://www.kde.org/community/donations/index.php#money)
 * [MATE](https://mate-desktop.org/donate/)
-* [XFCE](https://www.bountysource.com/teams/xfce)
+* [XFCE](https://opencollective.com/xfce)
 
 ## Components
 
@@ -155,7 +155,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 
 * [The Calyx Institute](https://www.calyxinstitute.org/civicrm/contribute/transact?reset=1&id=19)
 * [Patient Privacy Rights](https://patientprivacyrights.org/?page_id=8067)
-* [Privacy Rights Clearinghouse](https://privacyrights.networkforgood.com/)
+* [Privacy Rights Clearinghouse](https://privacyrights.org/donate)
 * [Restore the Fourth](https://restorethe4th.com/donate-now/)
 * [World Privacy Forum](https://www.worldprivacyforum.org/donate/)
 
@@ -166,7 +166,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Free Software Foundation](https://www.fsf.org/associate/)
 * [Freedom of the Press Foundation](https://freedom.press/)
 * [Instant Messaging Freedom, Inc](https://imfreedom.org/donate.php)
-* [The Linux Foundation](https://www.linuxfoundation.org/about/linux-donate)
+* [The Linux Foundation](https://www.linuxfoundation.org/about/donate)
 * [Linux Fund](http://www.linuxfund.org/donate/)
 * [Mozilla Foundation](https://donate.mozilla.org/en-US/)
 * [Open Source Initiative](https://opensource.org/civicrm/contribute/transact?reset=1&id=2)
